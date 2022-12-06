@@ -217,7 +217,7 @@ void loop() {
 ![](imgs/winsen1.png)
 
 # Comparing with Official Odor Sensor (OMX-ADM)
-[this](https://kanomax.biz/asia/about/pdf/omx-adm_manual.pdf) odor sensor can measure ammonia PPM by computing ammonia intensity. the PPM value that it can handle is between 0-25 ppm and 2.5-5 intensity. you can convert the intensity to ppm using the graph right [here](https://www.city.gifu.lg.jp/_res/projects/default_project/_page_/001/003/184/kankei.pdf)
+[this](https://kanomax.biz/asia/about/pdf/omx-adm_manual.pdf) odor sensor can measure ammonia PPM by computing ammonia intensity. the PPM value that it can handle is between 0-25 ppm and 2.5-5 intensity (1-40 ppm). you can convert the intensity to ppm using the graph right [here](https://www.city.gifu.lg.jp/_res/projects/default_project/_page_/001/003/184/kankei.pdf)
 
 ## How to compare
 in order to compare the ppm and voltage, we need to build an environment to conduct it.
